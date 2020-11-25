@@ -1,0 +1,20 @@
+{
+  "name": "imagejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Filipe Augusto Gonçalves",
+  "license": "ISC",
+  "dependencies": {
+    "@jimp/cli": "^0.13.0",
+    "color-space": "^1.16.0",
+    "cropperjs": "^1.5.7",
+    "delta-e": "^0.0.8",
+    "image-js": "^0.21.9",
+    "jimp": "^0.13.0",
+    "jimp-cli": "0.0.1"
+  }
+}
